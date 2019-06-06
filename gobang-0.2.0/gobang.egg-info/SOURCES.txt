@@ -1,0 +1,8 @@
+setup.py
+gobang/__init__.py
+gobang/main.py
+gobang.egg-info/PKG-INFO
+gobang.egg-info/SOURCES.txt
+gobang.egg-info/dependency_links.txt
+gobang.egg-info/top_level.txt
+gobang/ziti/zi_ti.ttf
